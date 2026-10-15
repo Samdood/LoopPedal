@@ -35,10 +35,6 @@ The analog front-end was a substantial part of the build. A buffered resistor di
 
 Component choices and gain changed during development; this schematic captures the analog design.
 
-<p align="center">
-  <img src="docs/images/breadboard-prototype.png" alt="Breadboard prototype showing the audio circuitry, Daisy Seed, display, potentiometer, and footswitch wiring" width="480">
-</p>
-
 ### System overview
 
 ![System block diagram showing audio conversion, processing, controls, and feedback](docs/images/system-diagram.png)
