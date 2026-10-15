@@ -2,10 +2,6 @@
 
 A Daisy Seed guitar looper with custom analog circuitry, footswitch controls, and an OLED interface. Record a loop, layer overdubs, and play with tempo quantization and an octave effect.
 
-<p align="center">
-  <img src="docs/images/pedal-prototype.png" alt="Guitar looper prototype with four footswitches, an OLED display, and a rotary control" width="520">
-</p>
-
 ## The idea
 
 This project was inspired by Ed Sheeran’s live looping. I wanted to build a pedal with features like quantization to make looping easier to use as getting the timing right without it can be frustrating, especially when a slightly mistimed loop keeps repeating. The design centers on one master loop with overdubbing and footswitch controls.
